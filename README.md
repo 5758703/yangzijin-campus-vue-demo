@@ -4,6 +4,7 @@ Vue 3 + Three.js。校园平面依据 **2026-09-20 下载的 OpenStreetMap 数�
 
 <img width="1920" height="1204" alt="image" src="https://github.com/user-attachments/assets/6cb0ebad-0376-445c-b00d-cef3c762a0c7" />
 
+<img width="1920" height="1204" alt="image" src="https://github.com/user-attachments/assets/c02aa011-2ef8-4715-91ac-869af619cddb" />
 
 
 ## 快速运行
